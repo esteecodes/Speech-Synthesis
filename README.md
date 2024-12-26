@@ -22,4 +22,4 @@ It is project 13: Speech Text Reader | Speech Synthesis</p>
 - Speaks the text typed in
 - Change voices and accents
 
-<a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
